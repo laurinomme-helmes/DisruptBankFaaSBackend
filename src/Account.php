@@ -1,7 +1,10 @@
-<?php
+<?php namespace DisruptBank;
 
-namespace DisruptBank;
-
+/**
+ * Class Account
+ * @todo convert to AWS Lambda
+ * @package DisruptBank
+ */
 class Account {
     /** @var int */
     public $balance;
