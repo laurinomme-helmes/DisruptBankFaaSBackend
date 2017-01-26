@@ -1,0 +1,21 @@
+{
+  "name": "DisruptBank/FaaSBackend",
+  "description": "Disrupting the banking industry using Personal Home Pages",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ändzelyyne Põldur",
+      "email": "numzikas98@geocities.com"
+    },
+    {
+      "name": "Vägobert TseTeeOoo",
+      "email": "the-newest-stack@hackernews.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DisruptBank\\": "src/"
+    }
+  }
+}
